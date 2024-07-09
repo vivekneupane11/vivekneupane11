@@ -57,7 +57,6 @@
  </div>
  
 <hr>
-[![GitHub followers](https://img.shields.io/github/followers/jorgeadev.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/vivekneupane11?tab=followers)
 [Vivek Neupane GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekneupane11&hide=contribs,prs&theme=buefy&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekneupane11&layout=compact&theme=buefy)](https://github.com/vivekneupane11/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=vivekneupane11&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
