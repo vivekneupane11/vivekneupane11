@@ -54,8 +54,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekneupane11&show_icons=true&locale=en&layout=compact"  height="165" alt="jorgeadev" />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivekneupane11&repo=github-readme-stats)](https://github.com/vivekneupane11/github-readme-stats)
 <hr>
-
- ![Snake animation](https://github.com/Albinzr/snakeMe/blob/output/github-contribution-grid-snake.svg)
  </div>
  
 <hr>
