@@ -50,14 +50,10 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekneupane11" style="margin: auto; margin-bottom: 20px;" />
 
 <!--
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekneupane11&show_icons=true&locale=en&layout=compact"  height="165" alt="jorgeadev" />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivekneupane11&repo=github-readme-stats)](https://github.com/vivekneupane11/github-readme-stats)
 <hr>
  </div>
  
 <hr>
-[Vivek Neupane GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekneupane11&hide=contribs,prs&theme=buefy&show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekneupane11&layout=compact&theme=buefy)](https://github.com/vivekneupane11/github-readme-stats)
+
 <img src="https://github-readme-stats.vercel.app/api?username=vivekneupane11&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 -->
