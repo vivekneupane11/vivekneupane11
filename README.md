@@ -42,10 +42,6 @@
 - 📫 Feel free to reach me: **vivekneupane11@gmail.com**
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=vivekneupane11&show_icons=true&locale=en" alt="vivekneupane"  height="165" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=vivekneupane11&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
-
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekneupane11" style="margin: auto; margin-bottom: 20px;" />
 
 <!--
