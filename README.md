@@ -49,7 +49,6 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekneupane11" style="margin: auto; margin-bottom: 20px;" />
 
 <!--
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekneupane11&langs_count=8&hide=jupyter%20notebook,java,python&show_icons=true&locale=en&layout=compact" height="165" alt="vivekneupane" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekneupane11&show_icons=true&locale=en&layout=compact"  height="165" alt="jorgeadev" />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivekneupane11&repo=github-readme-stats)](https://github.com/vivekneupane11/github-readme-stats)
