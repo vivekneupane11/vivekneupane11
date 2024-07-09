@@ -41,7 +41,6 @@
 - 💬 Ask me about frontend, backend, mobile app development , algorthimn, interview etc 
 - 📫 Feel free to reach me: **vivekneupane11@gmail.com**
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekneupane11&langs_count=8&hide=jupyter%20notebook,python&show_icons=true&locale=en&layout=compact" height="165" alt="vivekneupane" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=vivekneupane11&show_icons=true&locale=en" alt="vivekneupane"  height="165" />
 
