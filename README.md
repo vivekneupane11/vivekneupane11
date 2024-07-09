@@ -34,10 +34,11 @@
 * ✨ Linkedin: https://www.linkedin.com/in/vivek-neupane-b99259194/
 
  ### 👨🏻‍💻 About Me
+- 🌱 I've co-founded a company as CTO, serving around a million user
 - 🔭 I’m currently working on my [Special NPM Package](https://github.com/vivekneupane11/reactjs-editor)
 
 - 🌱 I'm working full time as a Senior Software Engineer
-- 👯 I’m looking to collaborate on team
+- 👯 I do content creating stuff too
 - 💬 Ask me about frontend, backend, mobile app development , algorthimn, interview etc 
 - 📫 Feel free to reach me: **vivekneupane11@gmail.com**
 
