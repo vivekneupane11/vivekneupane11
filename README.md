@@ -34,7 +34,8 @@
 * ✨ Linkedin: https://www.linkedin.com/in/vivek-neupane-b99259194/
 
  ### 👨🏻‍💻 About Me
-- 🔭 I’m currently working on my [Special NPM Package]([https://github.com/vivekneupane11/vivekneupane11](https://github.com/vivekneupane11/reactjs-editor))
+- - 🔭 I’m currently working on my [Special NPM Package](https://github.com/vivekneupane11/reactjs-editor)
+
 - 🌱 I'm working full time as a Senior Software Engineer
 - 👯 I’m looking to collaborate on team
 - 💬 Ask me about frontend, backend, mobile app development , algorthimn, interview etc 
