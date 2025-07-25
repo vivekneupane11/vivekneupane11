@@ -3,7 +3,7 @@
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=vivekneupane11&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-    <a href="https://www.linkedin.com/in/vivek-neupane-b99259194/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/vivek-neupane-b99259194/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
     <a href="mailto:vivekneupane11@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email" /></a>
   </p>
 </div>
@@ -11,10 +11,12 @@
 <h3 align="center">💻 A creative software engineer who loves coding as much as bike racing 🏍️</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200" alt="Coding GIF" />
 </div>
 
-## 🚀 Tech Stack
+---
+
+## 🚀 My Tech Arsenal
 
 <div align="center">
   
@@ -24,33 +26,39 @@
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![React Native](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&label=REACT-NATIVE)
+  ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&label=AWS)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   
 </div>
 
+---
+
 ## 🌟 About Me
 
-- 🏢 Currently working as a **Senior FullStack Developer**
-- 🚀 Co-founded a company as **CTO**, serving around a million users
-- 💻 Working on my [Special NPM Package](https://github.com/vivekneupane11/reactjs-editor)
-- 📱 Expert in frontend, backend, and mobile app development
-- 🎬 Content creator in my spare time
-- 🧠 Ask me about algorithms, interview prep, or development challenges
-- 📫 Reach me at: **vivekneupane11@gmail.com**
+- 🏢 Currently I'm a **Senior FullStack Developer**, building robust and scalable applications.
+- 🚀 I had the incredible opportunity to **co-found a company as CTO**, where we successfully served around a million users!
+- 💻 Actively contributing to the open-source community with my [Special NPM Package](https://github.com/vivekneupane11/reactjs-editor).
+- 📱 My expertise spans across **frontend, backend, and mobile app development**, allowing me to tackle projects end-to-end.
+- 🎬 In my spare time, I enjoy unleashing my creativity as a **content creator**.
+- 🧠 Always eager to discuss **algorithms, interview preparation strategies, or challenging development problems** – feel free to ask me anything!
+- 📫 You can reach me directly at: **vivekneupane11@gmail.com**
+
+---
 
 ## 🔥 Featured Projects
+
+These are some of the projects I'm particularly proud of:
 
 <div align="center">
   <table>
@@ -62,7 +70,7 @@
             <img src="https://img.shields.io/badge/LIVE-Demo-success?style=for-the-badge" alt="Live Demo"/>
           </a>
           <br/>
-          <span>A modern investment platform with rewards system and user-friendly interface</span>
+          <span>A modern investment platform designed with a rewarding system and a highly intuitive user interface.</span>
         </p>
       </td>
       <td width="50%">
@@ -72,7 +80,7 @@
             <img src="https://img.shields.io/badge/LIVE-Demo-success?style=for-the-badge" alt="Live Demo"/>
           </a>
           <br/>
-          <span>Digital platform for medical document management and sharing</span>
+          <span>A digital platform dedicated to efficient medical document management and secure sharing.</span>
         </p>
       </td>
     </tr>
@@ -84,7 +92,7 @@
             <img src="https://img.shields.io/badge/LIVE-Demo-success?style=for-the-badge" alt="Live Demo"/>
           </a>
           <br/>
-          <span>Multilingual e-commerce platform with advanced language support</span>
+          <span>A versatile e-commerce platform boasting advanced multilingual support to cater to diverse users.</span>
         </p>
       </td>
       <td width="50%">
@@ -94,14 +102,18 @@
             <img src="https://img.shields.io/badge/LIVE-Demo-success?style=for-the-badge" alt="Live Demo"/>
           </a>
           <br/>
-          <span>Healthcare platform connecting patients with doctors</span>
+          <span>A comprehensive healthcare platform focused on seamlessly connecting patients with doctors.</span>
         </p>
       </td>
     </tr>
   </table>
 </div>
 
-## 💼 Professional Projects
+---
+
+## 💼 Professional Endeavors
+
+Here are some of the professional projects I've been involved with:
 
 <div align="center">
   <a href="https://project-3-ebon-eta.vercel.app/technician/dashboard" target="_blank">
@@ -124,7 +136,11 @@
   </a>
 </div>
 
-## 🛠️ Development Projects
+---
+
+## 🛠️ Development & Open-Source Contributions
+
+A peek into my development and open-source contributions:
 
 <div align="center">
   <table>
@@ -157,7 +173,11 @@
   </table>
 </div>
 
-## 🎨 Creative Projects
+---
+
+## 🎨 Creative Corner
+
+Exploring my creative side through various projects:
 
 <div align="center">
   <a href="https://book-website-nextjs-nu55nd640-vivekneupane11s-projects.vercel.app/" target="_blank">
@@ -174,7 +194,11 @@
   </a>
 </div>
 
-## 📊 GitHub Stats
+---
+
+## 📊 My GitHub Journey
+
+A glimpse into my coding activity on GitHub:
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekneupane11&theme=tokyonight" alt="GitHub Streak" />
@@ -182,24 +206,32 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vivekneupane11&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
-## 🔗 Connect With Me
+---
+
+## 🔗 Let's Connect!
+
+I'd love to connect with you. Feel free to reach out on these platforms:
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vivek-neupane-b99259194/">
+  <a href="https://www.linkedin.com/in/vivek-neupane-b99259194/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.youtube.com/channel/UCJoQhaR1_Gx8dpeZdrCCXsg">
+  <a href="https://youtube.com/0" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://twitter.com">
+  <a href="https://twitter.com" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
 
+---
+
 ## 🏆 Hobbies & Interests
 
-- 💻 Coding new projects
-- 📚 Reading tech blogs and books
-- 🎬 Watching series and movies
-- ⛺ Camping and outdoor activities
-- 🏍️ Bike racing and adventures
+Beyond the keyboard, here's what I enjoy:
+
+- 💻 **Coding new projects**: Always eager to learn and build!
+- 📚 **Reading tech blogs and books**: Staying up-to-date with the latest in the tech world.
+- 🎬 **Watching series and movies**: Unwinding with a good story.
+- ⛺ **Camping and outdoor activities**: There's nothing quite like disconnecting in nature and exploring new trails.
+- 🏍️ **Bike racing and adventures**: Feeling the thrill of the open road and pushing limits.
